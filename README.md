@@ -40,7 +40,7 @@ This project explores the core concepts behind dynamic memory allocation, includ
 ## Building
 
 ```bash
-make
+gcc
 ```
 
 ## Running
